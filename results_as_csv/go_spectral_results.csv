@@ -1,0 +1,11 @@
+direction,condition,target,source,band,p_value,deltaO,significant
+top_down,stand,6,2,delta,0.095,0.003,not significant
+top_down,stand,6,2,theta,0.11,0.003,not significant
+top_down,stand,6,2,alpha,0.885,-0.003,not significant
+top_down,stand,6,2,beta,0.005,0.037,significant
+top_down,stand,6,2,gamma,0.005,0.032,significant
+top_down,dev,6,2,delta,0.505,-0.0,not significant
+top_down,dev,6,2,theta,0.64,-0.001,not significant
+top_down,dev,6,2,alpha,1.0,-0.01,not significant
+top_down,dev,6,2,beta,0.005,0.027,significant
+top_down,dev,6,2,gamma,0.005,0.026,significant
